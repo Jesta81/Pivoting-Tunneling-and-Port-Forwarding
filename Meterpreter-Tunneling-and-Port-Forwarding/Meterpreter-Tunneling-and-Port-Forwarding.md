@@ -10,7 +10,7 @@ Password: HTB_@cademy_stdnt!
 
 ### Creating Payload for Ubuntu Pivot Host
 
-![Payload](/Pivoting-Tunneling-Port-Forwarding/Meterpreter-Tunneling-and-Port-Forwarding/images/met-payload.png) 
+![Payload](/Pivoting-Tunneling-and-Port-Forwarding/Meterpreter-Tunneling-and-Port-Forwarding/images/met-payload.png) 
 
 Before copying the payload over, we can start a [multi/handler](https://www.rapid7.com/db/modules/exploit/multi/handler/), also known as a Generic Payload Handler.
 
